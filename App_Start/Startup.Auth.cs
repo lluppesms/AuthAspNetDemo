@@ -39,7 +39,6 @@ namespace AuthAspNetDemo
                         }
                     }
                 });
-                 
         }
 
         private static string EnsureTrailingSlash(string value)
